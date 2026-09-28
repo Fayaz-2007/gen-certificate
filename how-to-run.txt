@@ -1,0 +1,7 @@
+Single certificate:
+
+python gen_certificates.py --template blank.png --name "Full Name" --serial "KI-26-AW-001"
+
+Batch from CSV:
+
+python gen_certificates.py --template blank.png --csv students.csv --prefix "KI-26-AW-" --start 1
