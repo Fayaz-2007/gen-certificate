@@ -6,6 +6,10 @@ calls, no API keys, no external services, at any point in the pipeline.
 All image work is done with Pillow (PIL) as a coordinate-based text overlay
 onto `blank.png` — there is no model involved.
 
+## 🛠️ Tech Stack
+
+![](https://skillicons.dev/icons?i=py)
+
 ## Setup
 
 ```bash
